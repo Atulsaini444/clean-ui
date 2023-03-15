@@ -1,6 +1,6 @@
 {
-    "name": "library-i",
-    "version": "1.0.24",
+    "name": "clean-ui",
+    "version": "1.0.0",
     "description": "A component library for react",
     "main": "dist/index.js",
     "module": "dist/index.esm.js",
